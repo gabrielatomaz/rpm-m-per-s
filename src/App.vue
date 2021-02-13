@@ -18,7 +18,7 @@
           <div class="field-body m-2">
             <Input
               type="number"
-              placeholder="Wheel radius"
+              placeholder="Wheel radius (meters)"
               v-model="wheelRadius"
             />
           </div>
