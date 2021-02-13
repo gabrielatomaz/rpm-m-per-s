@@ -1,5 +1,13 @@
 # rpm-m-per-s
 
+## Application
+Simple Vue App that calculates RPM to m/s and m/s to RPM using the wheel size.
+
+## View
+
+![alt text](https://i.imgur.com/eUlqzhJ.png)
+
+
 ## Project setup
 ```
 npm install
